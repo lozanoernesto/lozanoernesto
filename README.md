@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">🛠  Programming Languages</h3>
+<h2 align="left">🛠  Programming Languages</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">🤖 Machine Learning</h3>
+<h2 align="left">🤖 Machine Learning</h2>
 
 ###
 
